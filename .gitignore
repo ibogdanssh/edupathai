@@ -1,0 +1,47 @@
+# Java/Spring
+/backend/target/
+/backend/*.log
+/backend/*.pid
+/backend/.mvn
+/backend/mvnw
+/backend/mvnw.cmd
+/backend/.classpath
+/backend/.project
+/backend/.settings
+/backend/.vscode
+
+# IntelliJ IDEA
+*.iml
+*.iws
+.idea/
+
+# React/node
+/frontend/node_modules/
+/frontend/dist/
+/frontend/.cache
+/frontend/.env.local
+/frontend/.env.development.local
+/frontend/.env.test.local
+/frontend/.env.production.local
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+npm-debug.log*
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Misc
+*.swp
+*.swo
